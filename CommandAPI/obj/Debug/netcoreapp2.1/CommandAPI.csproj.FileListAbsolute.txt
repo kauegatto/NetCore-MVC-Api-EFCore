@@ -1,0 +1,14 @@
+F:\Users\Public\Kaue\dev\netcore mvc api\commandapi\obj\Debug\netcoreapp2.1\CommandAPI.csprojAssemblyReference.cache
+F:\Users\Public\Kaue\dev\netcore mvc api\commandapi\obj\Debug\netcoreapp2.1\CommandAPI.csproj.CoreCompileInputs.cache
+F:\Users\Public\Kaue\dev\netcore mvc api\commandapi\obj\Debug\netcoreapp2.1\CommandAPI.RazorAssemblyInfo.cache
+F:\Users\Public\Kaue\dev\netcore mvc api\commandapi\obj\Debug\netcoreapp2.1\CommandAPI.RazorAssemblyInfo.cs
+F:\Users\Public\Kaue\dev\netcore mvc api\commandapi\obj\Debug\netcoreapp2.1\CommandAPI.AssemblyInfoInputs.cache
+F:\Users\Public\Kaue\dev\netcore mvc api\commandapi\obj\Debug\netcoreapp2.1\CommandAPI.AssemblyInfo.cs
+F:\Users\Public\Kaue\dev\netcore mvc api\commandApi\bin\Debug\netcoreapp2.1\CommandAPI.deps.json
+F:\Users\Public\Kaue\dev\netcore mvc api\commandApi\bin\Debug\netcoreapp2.1\CommandAPI.runtimeconfig.json
+F:\Users\Public\Kaue\dev\netcore mvc api\commandApi\bin\Debug\netcoreapp2.1\CommandAPI.runtimeconfig.dev.json
+F:\Users\Public\Kaue\dev\netcore mvc api\commandApi\bin\Debug\netcoreapp2.1\CommandAPI.dll
+F:\Users\Public\Kaue\dev\netcore mvc api\commandApi\bin\Debug\netcoreapp2.1\CommandAPI.pdb
+F:\Users\Public\Kaue\dev\netcore mvc api\commandApi\obj\Debug\netcoreapp2.1\CommandAPI.RazorTargetAssemblyInfo.cache
+F:\Users\Public\Kaue\dev\netcore mvc api\commandApi\obj\Debug\netcoreapp2.1\CommandAPI.dll
+F:\Users\Public\Kaue\dev\netcore mvc api\commandApi\obj\Debug\netcoreapp2.1\CommandAPI.pdb
