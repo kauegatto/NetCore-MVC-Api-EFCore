@@ -14,11 +14,11 @@ namespace CommandAPI
     public class Program
     {
         public static void Main(string[] args)
-        {
-            CreateWebHostBuilder(args).Build().Run();
+        {   
             var context = new CommandContext();
             var commandAmount = context.command.Count();
             Console.WriteLine(commandAmount); 
+            CreateWebHostBuilder(args).Build().Run();
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
