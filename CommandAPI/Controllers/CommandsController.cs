@@ -10,8 +10,6 @@ namespace CommandAPI.Controllers {
         {
             return new string[] {"this", "is", "a","sample","string","array"};
         }
-
-
     }
 
 }
