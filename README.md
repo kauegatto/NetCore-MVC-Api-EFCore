@@ -3,11 +3,10 @@
 
 Este projeto se baseia na construção de uma API que realiza CRUD, este tem como foco aprender a utilizar melhor tecnologias as quais não domino totalmente.
 O projeto tem como base o vídeo "Step by Step Tutorial - .Net Core MVC REST API" (https://www.youtube.com/watch?v=mUAZ-EbGBOg&t=1s), do canal de Les Jackson
-***
 ## O que este projeto é?
-***
 Esse projeto é uma simples API que tem como função guardar, atualizar e pegar comandos úteis a desenvolvedores, no meu caso tentarei usar esse projeto para lembrar comandos úteis do git e do dotnet sendo rodado direto no visual studio code.
-***
+
+Este projeto Utiliza de Injeção de dependências, rotas que realizam crud CRUD, EF Core + MYSQL, Arquitetura MVC
 ## Como rodar? 
 
 Primeiro de tudo, esse projeto pede para que você tenha algumas dependências instaladas pelo NuGet, confira-as no CommandApi.csproj
@@ -37,6 +36,5 @@ Se algum erro acontecer, verifique se está usando sua base de dados.
 
 Depois disso, use no CLI : dotnet run 
 Use um aplicativo como insomnia e postman e acesse suas rotas,
-***
 ## Contribua
 Pull requests de todos os tipos são bem vindos, por exemplo, se quiser, pode incluir práticas de design pattern ou arquitetura de software no meu código a fim de indicar onde posso melhorar em certos aspectos.
