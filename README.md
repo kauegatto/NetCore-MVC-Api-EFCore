@@ -1,3 +1,4 @@
+
 # API .Net Core 2.0 -> Entity Framework + MVC
 
 Este projeto se baseia na construção de uma API que realiza CRUD, este tem como foco aprender a utilizar melhor tecnologias as quais não domino totalmente.

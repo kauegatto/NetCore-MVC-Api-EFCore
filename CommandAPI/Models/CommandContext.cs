@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 
 namespace CommandAPI.Models{
-    class CommandContext : DbContext{
+    public class CommandContext : DbContext{
         public CommandContext(DbContextOptions<CommandContext> options)
             : base(options)
         {
