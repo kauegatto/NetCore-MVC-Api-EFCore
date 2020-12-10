@@ -12,7 +12,8 @@ Este projeto Utiliza de Injeção de dependências, rotas que realizam crud CRUD
 Primeiro de tudo, esse projeto pede para que você tenha algumas dependências instaladas pelo NuGet, confira-as no CommandApi.csproj
 Em segundo lugar, use as migrations que já criei para adicionar um banco de dados de acordo com o dbContext, essa migration só criara as tabelas, esse projeto não tem uma massa para teste pronta sempre que rodado (ainda). 
 Use : dotnet ef database update;
-Adicione manualmente no seu client SQL algum insert para teste, exemplo:
+Adicione manualmente no seu client MYSQL algum insert para teste, exemplo:
+caso não use mysql, traga a dependência externa com o nuget e mude na injeção de opções do DbContext do services o options onde trago o uso do mnysql
 ```sql
 insert into Command values 
 (
