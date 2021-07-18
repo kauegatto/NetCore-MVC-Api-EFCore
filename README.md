@@ -5,8 +5,6 @@ Este projeto se baseia na construção de uma API que realiza CRUD, este tem com
 O projeto tem como base o vídeo "Step by Step Tutorial - .Net Core MVC REST API" (https://www.youtube.com/watch?v=mUAZ-EbGBOg&t=1s), do canal de Les Jackson
 ## O que este projeto é?
 Esse projeto é uma simples API que tem como função guardar, atualizar e pegar comandos úteis a desenvolvedores, no meu caso tentarei usar esse projeto para lembrar comandos úteis do git e do dotnet sendo rodado direto no visual studio code.
-
-Este projeto Utiliza de Injeção de dependências, rotas que realizam crud CRUD, EF Core + MYSQL, Arquitetura MVC
 ## Como rodar? 
 
 Primeiro de tudo, esse projeto pede para que você tenha algumas dependências instaladas pelo NuGet, confira-as no CommandApi.csproj
